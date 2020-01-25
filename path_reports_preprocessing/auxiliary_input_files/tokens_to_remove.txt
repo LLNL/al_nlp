@@ -1,0 +1,87 @@
+<sign out dr namezzz>
+ aaa 
+dr namezzz
+place
+ wa 
+ zip 
+ code 
+ md 
+ report given to 
+this certifies that i have reviewed and electronically signed this report
+electronically signed
+status signed out
+ gross description 
+ < 
+ > 
+<pathologist>
+na ezzz
+_
+<clinical info>
+<gross>
+<final dx>
+<dx co ent>
+<final dx>
+<clinical hx>
+<clinical dx>
+<addendu final dx>
+< icroscopic>
+<co ent>
+patient na e  bbb
+icroscopic>
+<dx co ent>
+<speci ens>
+<diagnosis co ents>
+<histology co ent>
+ cm 
+ mm 
+ /r/n
+ datejan
+ datefeb
+ datemar
+ dateapr
+ datemay
+ datejun
+ datejul
+ dateaug
+ datesep
+ dateoct
+ datenov
+ datedec
+ diagnosiscomment
+ operativediagnosis
+ postoperativediagnosis
+ date/time
+ xx/xx
+ xx/xx
+shivakumardoddachallor
+limitsclinicalhistory
+resultsclinicalhistory
+reviewclinicalhistory
+date complete
+date reported
+date ordered
+ nameaaa 
+ namettt 
+ nameuuu 
+ namewww 
+ namezzz 
+ namebbb 
+ namexxx 
+ nameyyy 
+ vvv 
+ www 
+ yyy 
+ sss 
+ ttt 
+ xxxxxx 
+ xxxxx 
+ xxx 
+originclinicalhistory
+addendumclinicalhistory
+carcinomaclinicalhistory
+strongclinicalhistory
+carcinomaclinicalsummary
+autopsypreliminarydiagnosis
+resultsclinicalhistory
+limitsclinicalhistory
+http//kdlab1/liveas/softimagewebapp
