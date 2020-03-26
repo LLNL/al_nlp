@@ -13,7 +13,7 @@ import os
 import pickle
 import numpy as np
 import torch
-from pytorch_transformers import BertTokenizer, BertModel
+from transformers import BertTokenizer, BertModel
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 

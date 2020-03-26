@@ -16,13 +16,11 @@ from design import ActiveLearningLoop
 
 if __name__ == '__main__':
 
-    # dataset = TwentyNewsGroups('BOW_DimReduction')
     fe = BOW_DimReduction(features_dim=50, projection='PCA', remove_stop_words=True)
     # fe = BOW_TopicModel(nb_topics=30)
     # fe = BERT(sentence_len=20)
 
     dataset = TwentyNewsGroups(fe)
-    # dataset = PathologyReports('PR', fe)
     dataset.prepare()
 
     # methods = [{'model': BayesianNeuralNet(name='BDNNr', epochs=2), 'acq_func': 'random'},
