@@ -34,7 +34,7 @@ al_nlp
 ```
 
 # Software requirements
-- Operating System: Windows, Linux, or MacOS
+- Operating System: Windows or MacOS
 - Python 3.7 or higher
 - Python packages required:
   - transformers (https://github.com/huggingface/transformers)
