@@ -44,7 +44,6 @@ al_nlp
   - theano 1.0
   - scikit-learn 0.20+
   - matplotlib 3.0+
-  - pytorch 1.3+
   - pandas 
   - ...
 
